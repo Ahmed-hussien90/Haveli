@@ -1,6 +1,6 @@
 # haveli
 
-Food restaurant Flutter App to order and book tables from resturant.
+Food restaurant Flutter App to order and book tables from restaurant.
 
 ## Features
 - Signin with google and email&password with Firebase Authentication.
