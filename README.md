@@ -9,7 +9,7 @@ Food restaurant Flutter App to order and book tables from resturant.
 - Order multiple Products and Book tables from restuarant.
 - Order tracking.
 - Admin Panel With Flutter Web to add ,delete , modify Products.
-- App Built with Getx State Mangement.
+- App Built with Getx State Management.
 - App used Firebase Realtime Database And Firebase Storage.
   
 
