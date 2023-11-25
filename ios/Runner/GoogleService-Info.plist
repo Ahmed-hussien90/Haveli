@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>862471764682-e4h4q4i1l2m94vpnq5p35uab4i8c495f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.862471764682-e4h4q4i1l2m94vpnq5p35uab4i8c495f</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>862471764682-li49i644es5gseqh34bre0p2loj47amo.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBCtAQIe_Xa9bVR7L4AI7O86NqHC_IOi0E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>862471764682</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mtgr.haveli</string>
+	<key>PROJECT_ID</key>
+	<string>haveli-7362d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>haveli-7362d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:862471764682:ios:2c5b3de2535c3e32ced233</string>
+	<key>DATABASE_URL</key>
+	<string>https://haveli-7362d-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

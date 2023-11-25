@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "862471764682",
+    "firebase_url": "https://haveli-7362d-default-rtdb.firebaseio.com",
+    "project_id": "haveli-7362d",
+    "storage_bucket": "haveli-7362d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862471764682:android:a41778b437313b47ced233",
+        "android_client_info": {
+          "package_name": "com.mtgr.haveli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862471764682-li49i644es5gseqh34bre0p2loj47amo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mtgr.haveli",
+            "certificate_hash": "46e3ce3f34de3b864e612c204ce82ff42f519a46"
+          }
+        },
+        {
+          "client_id": "862471764682-9fl7lhbast6tdm590qool3sgjv7e3141.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDieqHSQJi0diMom2HHig9DGmVoIdBWePQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862471764682-34p3avfglu1tgrqsp35nb8v46mmnqkjp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "862471764682-e4h4q4i1l2m94vpnq5p35uab4i8c495f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mtgr.haveli"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
