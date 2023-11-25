@@ -1,16 +1,26 @@
-# haveli1
+# haveli
 
-A new Flutter project.
+Food Resturant Flutter App to order and book tables from resturant.
 
-## Getting Started
+## Features
+- Signin with google and email&password with Firebase Authentication.
+- Support 3 Languages (Arabic ,English, Germany).
+- Support light and dark mode>
+- Order multiple Products and Book tables from restuarant.
+- Order tracking.
+- Admin Panel With Flutter Web to add ,delete , modify Products.
+- App Built with Getx State Mangement.
+- App used Firebase Realtime Database And Firebase Storage.
+  
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshot
+dark mode             |  light mode
+:-------------------------:|:-------------------------:
+![](/screenshot/2.jpeg?raw=true) | ![](/screenshot/1.jpeg?raw=true)
+![](/screenshot/3.jpeg?raw=true) | ![](/screenshot/20.jpeg?raw=true)
+![](/screenshot/5.jpeg?raw=true) | ![](/screenshot/19.jpeg?raw=true)
+![](/screenshot/6.jpeg?raw=true) | ![](/screenshot/18.jpeg?raw=true)
+![](/screenshot/4.jpeg?raw=true) |  ![](/screenshot/17.jpeg?raw=true)
+![](/screenshot/8.jpeg?raw=true) | ![](/screenshot/16.jpeg?raw=true)
+![](/screenshot/10.jpeg?raw=true)| ![](/screenshot/21.jpeg?raw=true)
+![](/screenshot/12.jpeg?raw=true)|  
